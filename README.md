@@ -1,0 +1,2 @@
+# qgisTricks
+QGIS tricks
